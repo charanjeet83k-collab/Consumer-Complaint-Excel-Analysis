@@ -90,7 +90,7 @@ Below are screenshots of the Excel analysis including pivot tables, complaint tr
 </p>
 
 <p align="center">
-  <img src="Complaint_YoY_Trend_Analysis.png" width="900"/>
+  <img src=Complaint_YoY_Analysis.png
 </p>
 
 ## 🚀 Skills Demonstrated
@@ -108,10 +108,15 @@ Through this project, the following data analytics skills were applied:
 
 The repository contains the following files:
 
-- Consumer Complaint Analysis.xlsx – Excel workbook containing cleaned data, pivot tables, and analysis
-- Consumer_Complaint_Dashboard.png – Excel dashboard screenshot
-- Complaint_YoY_Trend_Analysis.png – Year-over-year complaint trend analysis
+- Consumer Complaint Analysis.xlsx – Excel workbook containing cleaned data, pivot tables, and analysis.  
+  *(File preview may not display on GitHub due to size. Please download to explore the workbook.)*
 
+  🔗 Download Excel File:  
+  https://github.com/charanjeet83k-collab/Consumer-Complaint-Excel-Analysis/raw/main/Consumer%20Complaint%20Analysis.xlsx
+
+- Consumer_Complaint_Dashboard.png – Excel dashboard screenshot
+
+- Complaint_YoY_Trend_Analysis.png – Year-over-year complaint trend analysis
   
 ## 👩‍💻 Author
 

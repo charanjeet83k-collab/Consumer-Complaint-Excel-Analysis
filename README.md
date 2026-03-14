@@ -86,7 +86,7 @@ These insights help organizations understand customer concerns and improve servi
 Below are screenshots of the Excel analysis including pivot tables, complaint trends, and category insights.
 
 <p align="center">
-  <img src=Consumer-Complaint-Excel-Analysis/blob/main/Consumer_Complaint_Analysis_Dashboard.png
+  <img src=Consumer_Complaint_Analysis_Dashboard.png
 </p>
 
 <p align="center">
